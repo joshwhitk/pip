@@ -35,3 +35,11 @@ Everyone interacting in the pip project's codebases, issue trackers, chat
 rooms, and mailing lists is expected to follow the `PyPA Code of Conduct`_.
 
 .. _PyPA Code of Conduct: https://www.pypa.io/en/latest/code-of-conduct/
+
+Local fork context (2026-09-27)
+--------------------------------
+
+Josh's historical fork of the Python package installer maintained upstream by PyPA.
+
+* This checkout is an old source snapshot, not evidence of the current pip release. Preserve the upstream documentation and attribution below.
+* Use the repository history to inspect local changes; this fork is not a Replit project or an original application concept.
